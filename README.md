@@ -1,4 +1,4 @@
-# howto install (self-hosted) and some other useful apps after installing ubuntu server 20.04
+# howto install self-hosted and some other useful apps after installing ubuntu server 20.04
 # those are NOT bash script files!
 # don't run them as they are!
 # open them with your favourite editor and follow the commands.
@@ -27,4 +27,3 @@
 <a href="https://github.com/mrboghici/ubuntu-server20.04/blob/9109ba1a2f12b5e442603d2d1f703dea532097f3/files/sonarr.sh">Sonarr (TV-shows)</a>
 <a href="https://github.com/mrboghici/ubuntu-server20.04/blob/9109ba1a2f12b5e442603d2d1f703dea532097f3/files/webmin.sh">Webmin</a>
 <a href="https://github.com/mrboghici/ubuntu-server20.04/blob/9109ba1a2f12b5e442603d2d1f703dea532097f3/files/youtube-dl.sh">Youtube-dl</a>
-
